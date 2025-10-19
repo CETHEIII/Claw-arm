@@ -17,3 +17,14 @@ I was in my bed thinking about how to make the cardboard claw, I am interested h
 ![Project1](https://raw.githubusercontent.com/CETHEIII/Claw-arm/main/Project1.webp)
   
 
+## 10/19/2025 - Made it work, just need to figure out how to make it grab  
+
+So I figured it out, and I made the arm and make it close shut, but I still need to figure out how to make it grab better. Im really proud Ive come this far doing this project and it seems small but spending the time to tweak stuff over 2 hours and like try and make it work especially with the hot glue it was fun and nice.
+
+
+(https://raw.githubusercontent.com/CETHEIII/Claw-arm/refs/heads/main/6FD04C3A-85CF-4B0D-9AF4-E234016A26E3.mov)
+
+
+![Project2](https://raw.githubusercontent.com/CETHEIII/Claw-arm/main/Project2.webp)
+  
+
